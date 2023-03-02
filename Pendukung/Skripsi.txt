@@ -1,0 +1,4 @@
+Implemetasi algoritma string matching pada fasilitas live searching pada aplikasi manajemen klinik vidya medic
+KNP
+Finite automata
+Rubbin krub

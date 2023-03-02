@@ -1,0 +1,36 @@
+Bagaimana caranya agar di fitur bagian antrian ini bisa smart untuk mendukung konsep penelitian induknya yatiu smart helath record
+
+Pendahuluan:
+1. Pandangan Umum
+2. Aplikasi Manajement Klinik Vidya Medic
+3. Bagaimana cara agar aplikasi yang sudah ada bisa menjadi lebih efisien,
+Untuk mendukung konsep penelitian nya yaitu Smart Health Record
+
+
+Point dari Pendahuluan:
+
+Bagaimana cara agar aplikasi yang sudah ada bisa menjadi lebih efisien,
+Untuk mendukung konsep penelitian nya yaitu Smart Health Record.
+
+Umum -> topik ->masalah -> solusi -> petbandingan metod dengan yang sebelumnya -> kesimpulan
+
+Paragraf Pertama Umum -> point yang mengarah kepada masalah yang diajukan
+
+Penelitian sebelumnya dari metode yang digunakan
+
+Perbandingan dengan sebelumnya
+
+Tujuan dan manfaat
+
+dengan adanya algoritma ini diharapkan akan naik atau apa keunggulan nya.
+
+
+Rumusan masalah.
+
+Maksud dan tujuan
+
+maksud => judul
+
+Metode penelitian => metode untuk mendapatkan data
+
+Metode pengembangan sistem == algoritma yang ada di judul
