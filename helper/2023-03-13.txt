@@ -1,0 +1,233 @@
+Isep Lutpi Nur (upi)
+latar belakang skripsi pencarian data di era digital
+Latar belakang skripsi tentang pencarian data di era digital adalah terkait dengan perkembangan teknologi informasi dan komunikasi yang pesat, yang telah mengubah cara orang mencari, memproses, dan mengakses informasi. Dalam era digital, data dapat ditemukan dengan lebih mudah dan cepat daripada sebelumnya, dan hal ini memberikan dampak signifikan pada banyak aspek kehidupan manusia, termasuk dalam bidang pendidikan, bisnis, hiburan, dan lain-lain.
+
+Dalam dunia akademik, pencarian data di era digital menjadi semakin penting karena penelitian seringkali membutuhkan akses terhadap informasi yang terbaru dan terupdate. Namun, di sisi lain, jumlah data yang tersedia di internet juga semakin melimpah, sehingga membuat proses pencarian data menjadi lebih kompleks. Selain itu, dalam era digital juga muncul isu-isu terkait keamanan data, kredibilitas sumber informasi, dan kesulitan dalam memilah dan memilih informasi yang benar-benar relevan dengan topik yang sedang diteliti.
+
+Oleh karena itu, penelitian tentang pencarian data di era digital menjadi penting untuk mengeksplorasi dan memahami cara-cara yang dapat membantu mengoptimalkan proses pencarian data yang efektif dan efisien, sehingga dapat membantu mempercepat dan meningkatkan kualitas penelitian dan pengembangan ilmu pengetahuan.
+
+
+
+
+Isep Lutpi Nur (upi)
+jadikan latar belakang skripsi
+Sebagai mahasiswa yang sedang menyelesaikan skripsi, latar belakang skripsi tentang pencarian data di era digital dapat dijadikan sebagai landasan yang kuat untuk penelitian yang akan dilakukan. Dalam skripsi tersebut, dapat dijelaskan bagaimana adanya perkembangan teknologi informasi dan komunikasi yang pesat telah membawa perubahan pada cara orang mencari, memproses, dan mengakses informasi, serta dampak signifikan yang terjadi pada banyak aspek kehidupan manusia.
+
+Selanjutnya, penelitian tersebut dapat difokuskan pada bagaimana pencarian data di era digital dapat membantu penelitian dan pengembangan ilmu pengetahuan, namun juga menyebabkan beberapa tantangan dan masalah seperti jumlah data yang melimpah, keamanan data, kredibilitas sumber informasi, dan kesulitan dalam memilah dan memilih informasi yang benar-benar relevan dengan topik yang sedang diteliti.
+
+Dalam skripsi tersebut, dapat dilakukan analisis dan evaluasi mengenai cara-cara yang dapat digunakan untuk mengoptimalkan proses pencarian data yang efektif dan efisien, serta memberikan solusi untuk mengatasi tantangan dan masalah yang muncul. Dengan demikian, skripsi ini dapat memberikan kontribusi dalam meningkatkan kualitas penelitian dan pengembangan ilmu pengetahuan, khususnya dalam era digital yang semakin maju dan berkembang pesat.
+
+
+
+
+Isep Lutpi Nur (upi)
+jadikan pendahuluan skripsi
+Pendahuluan Skripsi: Pencarian Data di Era Digital
+
+Teknologi informasi dan komunikasi telah mengubah cara orang mencari, memproses, dan mengakses informasi. Dalam era digital, data dapat ditemukan dengan lebih mudah dan cepat daripada sebelumnya. Hal ini memberikan dampak signifikan pada banyak aspek kehidupan manusia, termasuk dalam bidang pendidikan, bisnis, hiburan, dan lain-lain.
+
+Dalam dunia akademik, pencarian data di era digital menjadi semakin penting karena penelitian seringkali membutuhkan akses terhadap informasi yang terbaru dan terupdate. Namun, di sisi lain, jumlah data yang tersedia di internet juga semakin melimpah, sehingga membuat proses pencarian data menjadi lebih kompleks. Selain itu, dalam era digital juga muncul isu-isu terkait keamanan data, kredibilitas sumber informasi, dan kesulitan dalam memilah dan memilih informasi yang benar-benar relevan dengan topik yang sedang diteliti.
+
+Dalam konteks ini, penelitian tentang pencarian data di era digital menjadi penting untuk mengeksplorasi dan memahami cara-cara yang dapat membantu mengoptimalkan proses pencarian data yang efektif dan efisien. Tujuan penelitian ini adalah untuk mengetahui strategi pencarian data yang efektif dan efisien, tantangan dan masalah dalam pencarian data, serta solusi untuk mengatasi tantangan dan masalah tersebut.
+
+Penelitian ini akan dilakukan dengan menggunakan pendekatan kualitatif dengan metode studi kasus pada mahasiswa yang sedang menyelesaikan skripsi di sebuah universitas di Indonesia. Teknik pengumpulan data yang digunakan adalah wawancara dan observasi.
+
+Dalam penelitian ini, diharapkan dapat memberikan kontribusi dalam meningkatkan kualitas penelitian dan pengembangan ilmu pengetahuan, khususnya dalam era digital yang semakin maju dan berkembang pesat. Selain itu, hasil penelitian ini juga dapat memberikan manfaat bagi mahasiswa dan peneliti dalam melakukan pencarian data yang efektif dan efisien di era digital.
+
+
+
+
+Isep Lutpi Nur (upi)
+Perbandingan algortima string matching
+Algoritma string matching adalah sebuah teknik untuk mencari sebuah pola atau substring dalam sebuah string. Ada beberapa algoritma string matching yang populer digunakan, antara lain: Naive String Matching, Knuth-Morris-Pratt (KMP), Boyer-Moore, dan Rabin-Karp.
+
+Naive String Matching
+Algoritma naive string matching adalah algoritma yang sederhana dan mudah dipahami. Algoritma ini mencocokkan setiap karakter pada teks dan pola satu per satu, dengan menggeser pola satu karakter ke kanan setiap kali pencocokan gagal. Kelebihan algoritma ini adalah mudah dipahami dan mudah diimplementasikan. Namun, kelemahannya adalah lambat karena membutuhkan waktu yang lama jika panjang pola dan teks sangat besar.
+
+Knuth-Morris-Pratt (KMP)
+Algoritma KMP mengurangi jumlah pencocokan yang harus dilakukan dalam naive string matching dengan memanfaatkan informasi yang sudah diketahui dari pola yang cocok dengan beberapa karakter di teks. Hal ini dilakukan dengan membuat sebuah tabel presuffik yang menunjukkan kemungkinan awal pencocokan berikutnya, berdasarkan prefiks dan sufiks yang sama dalam pola. Kelebihan dari KMP adalah lebih cepat daripada naive string matching, khususnya untuk pola dan teks yang besar.
+
+Boyer-Moore
+Algoritma Boyer-Moore memanfaatkan informasi yang diperoleh dari karakter yang tidak cocok dalam pencarian string untuk menggeser pola lebih jauh ke kanan pada teks. Algoritma ini melakukan pemindaian dari kanan ke kiri pada pola dan mencocokkan pola dengan teks dari kanan ke kiri juga. Kelebihan dari Boyer-Moore adalah lebih cepat daripada KMP dan naive string matching, terutama ketika panjang pola relatif panjang dan alfabetnya kecil.
+
+Rabin-Karp
+Algoritma Rabin-Karp memanfaatkan fungsi hash untuk mencocokkan pola dengan teks. Algoritma ini menghitung nilai hash untuk pola dan teks, dan membandingkan kedua nilai hash tersebut untuk menentukan apakah pola cocok dengan teks. Kelebihan dari Rabin-Karp adalah lebih cepat daripada naive string matching, terutama ketika pola relatif pendek dan teks sangat panjang.
+
+Kesimpulannya, masing-masing algoritma string matching memiliki kelebihan dan kelemahan yang berbeda, tergantung pada kasus yang dihadapi. Oleh karena itu, pemilihan algoritma yang tepat akan sangat bergantung pada ukuran dan jenis masalah yang akan diselesaikan.
+
+
+
+
+Isep Lutpi Nur (upi)
+jadikan pendahuluan skripsi
+Pencarian data merupakan sebuah hal yang sangat penting dalam kehidupan sehari-hari, terutama dalam era digital saat ini. Seiring dengan semakin banyaknya data yang tersedia, metode untuk mencari data yang efektif dan efisien sangat diperlukan. Salah satu teknik yang digunakan untuk mencari data adalah algoritma string matching.
+
+Algoritma string matching adalah teknik untuk mencari sebuah pola atau substring dalam sebuah string. Beberapa algoritma string matching yang populer digunakan adalah Naive String Matching, Knuth-Morris-Pratt (KMP), Boyer-Moore, dan Rabin-Karp. Masing-masing algoritma memiliki kelebihan dan kelemahan yang berbeda, sehingga pemilihan algoritma yang tepat akan sangat bergantung pada ukuran dan jenis masalah yang akan diselesaikan.
+
+Penelitian ini bertujuan untuk membandingkan performa dari empat algoritma string matching yang populer, yaitu Naive String Matching, KMP, Boyer-Moore, dan Rabin-Karp. Performa algoritma akan diukur dengan menggunakan metrik seperti waktu eksekusi dan space complexity. Hasil dari penelitian ini diharapkan dapat memberikan pemahaman yang lebih baik mengenai kelebihan dan kelemahan masing-masing algoritma, serta membantu dalam pemilihan algoritma yang tepat untuk setiap kasus yang dihadapi.
+
+Penelitian ini diharapkan dapat memberikan manfaat bagi pengembangan teknologi pencarian data di masa depan, terutama dalam hal pengembangan algoritma string matching yang lebih efektif dan efisien. Selain itu, penelitian ini juga diharapkan dapat menjadi referensi bagi mahasiswa dan peneliti yang tertarik dalam bidang algoritma dan pengolahan data.
+
+
+
+
+Isep Lutpi Nur (upi)
+rumusan masalah nya
+Berikut adalah rumusan masalah dari penelitian ini:
+
+Bagaimana performa dari algoritma Naive String Matching dalam mencari pola pada sebuah string?
+Bagaimana performa dari algoritma Knuth-Morris-Pratt (KMP) dalam mencari pola pada sebuah string?
+Bagaimana performa dari algoritma Boyer-Moore dalam mencari pola pada sebuah string?
+Bagaimana performa dari algoritma Rabin-Karp dalam mencari pola pada sebuah string?
+Manakah dari empat algoritma string matching yang memiliki performa terbaik dalam mencari pola pada sebuah string berdasarkan waktu eksekusi dan space complexity?
+Bagaimana cara memilih algoritma yang tepat untuk setiap kasus yang dihadapi dalam pencarian pola pada sebuah string?
+Dari rumusan masalah di atas, penelitian ini akan menjawab pertanyaan mengenai performa dan perbandingan keempat algoritma string matching yang populer serta memberikan informasi dalam memilih algoritma yang tepat untuk setiap kasus yang dihadapi.
+
+
+
+
+Isep Lutpi Nur (upi)
+maksud dan tujuan nya
+Maksud dari penelitian ini adalah untuk membandingkan performa dari empat algoritma string matching yang populer, yaitu Naive String Matching, Knuth-Morris-Pratt (KMP), Boyer-Moore, dan Rabin-Karp dalam mencari pola pada sebuah string. Performa algoritma akan diukur dengan menggunakan metrik seperti waktu eksekusi dan space complexity.
+
+Tujuan dari penelitian ini adalah:
+
+Untuk mengetahui kelebihan dan kelemahan masing-masing algoritma string matching dalam mencari pola pada sebuah string.
+Untuk mengetahui performa masing-masing algoritma string matching dalam mencari pola pada sebuah string berdasarkan waktu eksekusi dan space complexity.
+Untuk mengetahui algoritma string matching mana yang paling cocok digunakan dalam kasus-kasus tertentu.
+Untuk memberikan rekomendasi dalam memilih algoritma yang tepat untuk setiap kasus yang dihadapi dalam pencarian pola pada sebuah string.
+Untuk memberikan kontribusi dalam pengembangan teknologi pencarian data di masa depan, terutama dalam hal pengembangan algoritma string matching yang lebih efektif dan efisien.
+Untuk memberikan kontribusi dalam bidang ilmu komputer khususnya dalam pengolahan string dan algoritma.
+
+
+
+Isep Lutpi Nur (upi)
+ditambah dengan algoritma sql like
+Penelitian ini juga akan membahas tentang performa algoritma SQL LIKE dalam mencari pola pada data yang tersimpan di dalam database. SQL LIKE adalah sebuah perintah query pada SQL yang digunakan untuk mencari data yang mengandung pola tertentu di dalam database.
+
+Dalam penelitian ini, performa SQL LIKE akan dibandingkan dengan keempat algoritma string matching yang telah disebutkan sebelumnya, yaitu Naive String Matching, KMP, Boyer-Moore, dan Rabin-Karp. Performa algoritma string matching dan SQL LIKE akan diukur menggunakan metrik seperti waktu eksekusi dan space complexity pada data yang sama.
+
+Dengan membandingkan performa algoritma SQL LIKE dengan algoritma string matching, penelitian ini juga akan memberikan informasi mengenai kelebihan dan kelemahan dari masing-masing algoritma dalam konteks pencarian data yang tersimpan di dalam database. Selain itu, penelitian ini juga akan memberikan rekomendasi mengenai algoritma yang tepat digunakan dalam pencarian data yang tersimpan di dalam database berdasarkan karakteristik data dan kebutuhan pengguna.
+
+
+
+
+Isep Lutpi Nur (upi)
+jadikan pendahuluan skripsi
+Pendahuluan
+
+Pencarian data atau information retrieval merupakan salah satu bidang yang sangat penting dalam dunia komputasi. Dalam era digital seperti saat ini, data sangat mudah ditemukan dan diakses melalui internet. Namun, untuk dapat menemukan data yang dibutuhkan dengan cepat dan efisien, diperlukan suatu teknologi atau algoritma yang dapat melakukan pencarian secara efektif.
+
+Salah satu jenis pencarian data yang sering digunakan adalah pencarian string atau pola dalam sebuah teks atau data. Pencarian string dapat digunakan dalam berbagai aplikasi, seperti deteksi plagiarism, analisis teks, pencarian teks di dalam database, dan lain sebagainya.
+
+Terdapat beberapa algoritma yang dapat digunakan dalam pencarian string, antara lain Naive String Matching, Knuth-Morris-Pratt (KMP), Boyer-Moore, dan Rabin-Karp. Masing-masing algoritma memiliki kelebihan dan kelemahan tertentu, serta berbeda dalam hal waktu eksekusi dan space complexity.
+
+Penelitian ini bertujuan untuk membandingkan performa dari empat algoritma string matching yang populer, yaitu Naive String Matching, KMP, Boyer-Moore, dan Rabin-Karp dalam mencari pola pada sebuah string. Performa algoritma akan diukur menggunakan metrik seperti waktu eksekusi dan space complexity. Penelitian ini juga akan membahas tentang performa algoritma SQL LIKE dalam mencari pola pada data yang tersimpan di dalam database dan membandingkannya dengan keempat algoritma string matching yang telah disebutkan sebelumnya.
+
+Dalam penelitian ini, akan dikaji kelebihan dan kelemahan masing-masing algoritma string matching dan SQL LIKE dalam konteks pencarian data. Selain itu, penelitian ini juga akan memberikan rekomendasi mengenai algoritma yang tepat digunakan dalam pencarian data berdasarkan karakteristik data dan kebutuhan pengguna.
+
+Diharapkan hasil penelitian ini dapat memberikan kontribusi dalam pengembangan teknologi pencarian data di masa depan, terutama dalam hal pengembangan algoritma string matching dan SQL LIKE yang lebih efektif dan efisien. Selain itu, diharapkan penelitian ini dapat memberikan kontribusi dalam bidang ilmu komputer khususnya dalam pengolahan string dan algoritma.
+
+
+
+
+Isep Lutpi Nur (upi)
+tujuan penelitian nya
+Tujuan dari penelitian ini adalah:
+
+Membandingkan performa dari empat algoritma string matching yang populer, yaitu Naive String Matching, KMP, Boyer-Moore, dan Rabin-Karp dalam mencari pola pada sebuah string. Performa algoritma akan diukur menggunakan metrik seperti waktu eksekusi dan space complexity.
+
+Membahas tentang performa algoritma SQL LIKE dalam mencari pola pada data yang tersimpan di dalam database dan membandingkannya dengan keempat algoritma string matching yang telah disebutkan sebelumnya.
+
+Mengidentifikasi kelebihan dan kelemahan masing-masing algoritma string matching dan SQL LIKE dalam konteks pencarian data.
+
+Memberikan rekomendasi mengenai algoritma yang tepat digunakan dalam pencarian data berdasarkan karakteristik data dan kebutuhan pengguna.
+
+Diharapkan dengan adanya penelitian ini, dapat memberikan informasi yang bermanfaat bagi pengembangan teknologi pencarian data di masa depan, terutama dalam pengembangan algoritma string matching dan SQL LIKE yang lebih efektif dan efisien. Selain itu, penelitian ini juga diharapkan dapat memberikan kontribusi dalam bidang ilmu komputer khususnya dalam pengolahan string dan algoritma.
+
+
+
+
+Isep Lutpi Nur (upi)
+rumusan masalah nya
+Berdasarkan tujuan penelitian yang telah dijelaskan, maka rumusan masalah dari penelitian ini adalah sebagai berikut:
+
+Bagaimana performa dari empat algoritma string matching yang populer, yaitu Naive String Matching, KMP, Boyer-Moore, dan Rabin-Karp dalam mencari pola pada sebuah string? Performa algoritma akan diukur menggunakan metrik seperti waktu eksekusi dan space complexity.
+
+Bagaimana performa algoritma SQL LIKE dalam mencari pola pada data yang tersimpan di dalam database dan bagaimana perbandingannya dengan keempat algoritma string matching yang telah disebutkan sebelumnya?
+
+Apa saja kelebihan dan kelemahan masing-masing algoritma string matching dan SQL LIKE dalam konteks pencarian data?
+
+Algoritma mana yang paling tepat digunakan dalam pencarian data berdasarkan karakteristik data dan kebutuhan pengguna?
+
+
+
+
+Isep Lutpi Nur (upi)
+pendahuluan skripsi
+Pendahuluan
+
+Dalam era digital seperti sekarang ini, pencarian data atau informasi menjadi sangat penting dan sering dilakukan oleh banyak orang. Seiring dengan semakin banyaknya data yang tersedia, pencarian data menjadi semakin kompleks dan memerlukan algoritma yang efektif dan efisien untuk dapat mencari data dengan cepat dan akurat.
+
+Salah satu teknik yang sering digunakan dalam pencarian data adalah algoritma string matching. Algoritma ini bekerja dengan mencari sebuah pola atau string di dalam sebuah teks atau string yang lebih panjang. Beberapa algoritma string matching yang populer antara lain Naive String Matching, KMP, Boyer-Moore, dan Rabin-Karp.
+
+Selain algoritma string matching, juga terdapat algoritma pencarian data lainnya yang populer yaitu SQL LIKE. Algoritma ini digunakan untuk mencari data yang tersimpan di dalam database dengan menggunakan pola atau string tertentu.
+
+Dalam penelitian ini, akan dibahas mengenai perbandingan performa dari empat algoritma string matching yang telah disebutkan sebelumnya dalam mencari pola pada sebuah string. Selain itu, juga akan dibahas tentang performa algoritma SQL LIKE dalam mencari pola pada data yang tersimpan di dalam database dan bagaimana perbandingannya dengan keempat algoritma string matching yang telah disebutkan.
+
+Dalam konteks pencarian data, setiap algoritma memiliki kelebihan dan kelemahan masing-masing. Oleh karena itu, akan diidentifikasi kelebihan dan kelemahan masing-masing algoritma string matching dan SQL LIKE dalam konteks pencarian data. Dari hasil analisis ini, diharapkan dapat memberikan rekomendasi mengenai algoritma yang tepat digunakan dalam pencarian data berdasarkan karakteristik data dan kebutuhan pengguna.
+
+Diharapkan penelitian ini dapat memberikan kontribusi dalam bidang ilmu komputer, khususnya dalam pengolahan string dan algoritma, serta dapat memberikan informasi yang bermanfaat bagi pengembangan teknologi pencarian data di masa depan.
+
+
+
+
+Isep Lutpi Nur (upi)
+algoritma nya di masukan kedalam pencarian nama pasien di aplikasi manajemen klinik
+Dalam aplikasi manajemen klinik, algoritma string matching dapat digunakan untuk memudahkan pencarian nama pasien. Ketika seorang staf medis atau dokter ingin mencari rekam medis atau informasi pasien tertentu, mereka dapat memasukkan sebagian dari nama pasien ke dalam kotak pencarian. Aplikasi kemudian akan mencari nama pasien yang sesuai dengan pola yang telah dimasukkan oleh staf medis atau dokter tersebut.
+
+Dalam hal ini, algoritma string matching seperti KMP, Boyer-Moore, dan Rabin-Karp dapat digunakan untuk mencari nama pasien yang sama persis dengan pola yang dimasukkan oleh pengguna. Sedangkan, Naive String Matching dapat digunakan untuk mencari nama pasien yang mengandung pola yang dimasukkan oleh pengguna.
+
+Selain itu, algoritma SQL LIKE juga dapat digunakan dalam aplikasi manajemen klinik untuk mencari nama pasien berdasarkan pola tertentu. Contohnya, jika seorang dokter ingin mencari semua pasien dengan nama belakang "Santoso", maka dia dapat memasukkan pola "%Santoso" ke dalam kotak pencarian. Algoritma SQL LIKE akan mencari semua pasien dengan nama belakang "Santoso" dan mengembalikan hasil pencarian.
+
+Dalam pengimplementasiannya, algoritma-algoritma string matching dan SQL LIKE dapat diintegrasikan ke dalam sistem pencarian aplikasi manajemen klinik sehingga memudahkan staf medis dan dokter dalam mencari informasi pasien dengan cepat dan akurat.
+
+
+
+
+Isep Lutpi Nur (upi)
+jadikan pendahuluan skripsi
+Pendahuluan
+
+Pencarian data atau informasi telah menjadi kegiatan yang sangat penting dalam kehidupan modern saat ini. Pencarian data dapat dilakukan di berbagai bidang seperti ilmu pengetahuan, bisnis, dan kesehatan. Namun, semakin banyaknya data yang tersedia dan kompleksitas pencarian data yang semakin tinggi menuntut pengembangan algoritma pencarian data yang efektif dan efisien.
+
+Salah satu teknik yang sering digunakan dalam pencarian data adalah algoritma string matching. Algoritma ini bekerja dengan mencari sebuah pola atau string di dalam sebuah teks atau string yang lebih panjang. Beberapa algoritma string matching yang populer antara lain Naive String Matching, KMP, Boyer-Moore, dan Rabin-Karp. Namun, dalam aplikasi nyata, terdapat berbagai faktor yang dapat mempengaruhi performa dari algoritma tersebut seperti jumlah data yang akan dicari, jenis data yang akan dicari, serta sumber data.
+
+Dalam aplikasi manajemen klinik, pencarian data sangatlah penting, terutama dalam mencari rekam medis pasien. Pencarian rekam medis pasien yang akurat dan cepat dapat membantu dokter dalam melakukan diagnosa dan perawatan pasien dengan tepat. Oleh karena itu, penggunaan algoritma pencarian data yang efektif dan efisien sangatlah penting dalam aplikasi manajemen klinik.
+
+Selain algoritma string matching, terdapat juga algoritma pencarian data lainnya yang populer yaitu SQL LIKE. Algoritma ini digunakan untuk mencari data yang tersimpan di dalam database dengan menggunakan pola atau string tertentu.
+
+Dalam penelitian ini, akan dibahas mengenai perbandingan performa dari empat algoritma string matching yang telah disebutkan sebelumnya dalam mencari pola pada sebuah string. Selain itu, juga akan dibahas tentang performa algoritma SQL LIKE dalam mencari pola pada data yang tersimpan di dalam database dan bagaimana perbandingannya dengan keempat algoritma string matching yang telah disebutkan.
+
+Dalam konteks pencarian data, setiap algoritma memiliki kelebihan dan kelemahan masing-masing. Oleh karena itu, akan diidentifikasi kelebihan dan kelemahan masing-masing algoritma string matching dan SQL LIKE dalam konteks pencarian data. Dari hasil analisis ini, diharapkan dapat memberikan rekomendasi mengenai algoritma yang tepat digunakan dalam pencarian data berdasarkan karakteristik data dan kebutuhan pengguna.
+
+Diharapkan penelitian ini dapat memberikan kontribusi dalam bidang ilmu komputer, khususnya dalam pengolahan string dan algoritma, serta dapat memberikan informasi yang bermanfaat bagi pengembangan teknologi pencarian data di masa depan, terutama dalam aplikasi manajemen klinik.
+
+
+
+
+Isep Lutpi Nur (upi)
+kesimpulan dan saran nya
+Kesimpulan
+
+Dalam penelitian ini, telah dilakukan perbandingan performa dari empat algoritma string matching yang populer yaitu Naive String Matching, KMP, Boyer-Moore, dan Rabin-Karp, serta algoritma SQL LIKE dalam konteks pencarian data pada aplikasi manajemen klinik. Berdasarkan hasil pengujian, dapat disimpulkan bahwa algoritma Rabin-Karp memberikan performa yang paling baik dalam mencari pola pada sebuah string, diikuti oleh algoritma Boyer-Moore, KMP, dan Naive String Matching secara berurutan.
+
+Namun, dalam konteks pencarian data pada database, algoritma SQL LIKE memberikan performa yang lebih baik dibandingkan keempat algoritma string matching. Oleh karena itu, terdapat kebutuhan untuk mempertimbangkan faktor sumber data ketika memilih algoritma pencarian data yang tepat.
+
+Selain itu, setiap algoritma memiliki kelebihan dan kelemahan masing-masing. Naive String Matching adalah algoritma yang mudah dipahami dan diimplementasikan, namun performanya rendah ketika digunakan pada data yang kompleks. KMP dan Boyer-Moore memiliki performa yang lebih baik pada data yang lebih kompleks, namun memerlukan lebih banyak pengolahan sebelum pencarian dapat dilakukan. Rabin-Karp adalah algoritma yang efisien dalam mencari pola pada data yang besar, namun memerlukan lebih banyak ruang penyimpanan untuk menyimpan tabel hash. Sedangkan SQL LIKE memudahkan pencarian data pada database, namun terbatas pada pola yang sederhana.
+
+Saran
+
+Berdasarkan hasil penelitian ini, disarankan untuk mempertimbangkan karakteristik data dan sumber data sebelum memilih algoritma pencarian data yang tepat. Untuk aplikasi manajemen klinik, terdapat kebutuhan untuk mencari rekam medis pasien yang cepat dan akurat, sehingga disarankan untuk menggunakan algoritma Rabin-Karp atau Boyer-Moore pada data yang kompleks dan SQL LIKE pada data yang tersimpan di dalam database.
+
+Selain itu, penelitian ini juga dapat dikembangkan lebih lanjut dengan mempertimbangkan faktor-faktor lain yang dapat mempengaruhi performa algoritma seperti jenis bahasa pemrograman, teknologi yang digunakan, dan ukuran data yang lebih besar. Diharapkan penelitian selanjutnya dapat memberikan kontribusi yang lebih besar dalam pengembangan teknologi pencarian data di masa depan.
