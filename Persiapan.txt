@@ -1,0 +1,81 @@
+# Fisik
+   [x] Sertifikat PROPANKA
+   [x] Sertifikat TOEFL
+   [] Kuitansi DPP
+   [] Kuitansi Biaya Bimbingan Skripsi
+   [] Kuitansi Biaya Sidang Skripsi
+   [x] Sertifikat Seminar/Workshop
+   [x] Sertifikat Sertifikasi Kompetensi Internasional
+   [x] Transkrip Nilai
+   [] Kartu Bimbingan Skripsi
+   [] Surat Keterangan Cek Plagiarisme
+   [] Surat Balasan Tempat Penelitian
+   [] Biodata
+   [] Akte Kelahiran
+   [] Kartu Keluarga
+   [x] Kartu Tanda Penduduk
+   [] File Skripsi
+
+# Print
+   [] File Skripsi
+   [] Surat Balasan Tempat Penelitian
+   [] Biodata
+   [] Akte Kelahiran
+   [] Kartu Keluarga
+
+# Fotocopy
+   [] Surat Keterangan Cek Plagiarisme
+   [] Kuitansi Biaya Bimbingan Skripsi
+   [] Kuitansi DPP
+   [] Kuitansi Biaya Bimbingan Skripsi
+   [] Kuitansi Biaya Sidang Skripsi
+   [] Kartu Bimbingan Skripsi
+
+# Submit Form
+   [x] Sertifikat PROPANKA
+   [x] Sertifikat TOEFL
+   [x] Kuitansi DPP
+   [] Kuitansi Biaya Bimbingan Skripsi
+   [x] Kuitansi Biaya Sidang Skripsi
+   [x] Sertifikat Seminar/Workshop
+   [x] Sertifikat Sertifikasi Kompetensi Internasional
+   [x] Transkrip Nilai
+   [x] Kartu Bimbingan Skripsi
+   [x] Surat Keterangan Cek Plagiarisme
+   [] Surat Balasan Tempat Penelitian
+   [x] Biodata
+   [x] Akte Kelahiran
+   [x] Kartu Keluarga
+   [x] Kartu Tanda Penduduk
+   [] File Skripsi
+
+# Revisian
+   [] Kesimpulan
+   [] Hasil Penelitian
+   [] Abstrak
+   [] TTD Surat Balasan Tempat Penelitian
+
+# Tugas
+   [] Isi Kuisioner
+   [] Buat File Presentasi (PTT)
+   [] Latihan Presentasi
+
+# Round down (10 Agustus 2023)
+   [] Cetak Ulang Kuitansi Biaya Bimbingan Skripsi (Keuangan)
+   ## Print
+      [] Surat Balasan Tempat Penelitian
+      [] Biodata
+      [] Akte Kelahiran
+      [] Kartu Keluarga
+   ## Fotocopy
+      [] Surat Keterangan Cek Plagiarisme
+      [] Kuitansi Biaya Bimbingan Skripsi
+      [] Kuitansi DPP
+      [] Kuitansi Biaya Bimbingan Skripsi
+      [] Kuitansi Biaya Sidang Skripsi
+      [] Kartu Bimbingan Skripsi
+   [] Bimbingan
+   [] Print Skripsi (Rapihkan dan buat pdf sebelum di print)
+   [] Isi Google Form pendaftaran Sidang
+   [] Peneyerahan Berkas Ke Prodi
+
