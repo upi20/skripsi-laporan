@@ -1,0 +1,7 @@
+[] persamaan dan perbedaan dari masing masing metode, kekurangan, kelebihan.
+
+[x] perbedaan memory dari byte jadi kilo byte
+
+[] buat hidden slide untuk metode
+
+[] program harus sudah kebuka
