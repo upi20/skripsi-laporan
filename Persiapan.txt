@@ -8,8 +8,8 @@
    [x] Sertifikat Sertifikasi Kompetensi Internasional
    [x] Transkrip Nilai
    [] Kartu Bimbingan Skripsi
-   [] Surat Keterangan Cek Plagiarisme
-   [] Surat Balasan Tempat Penelitian
+   [x] Surat Keterangan Cek Plagiarisme
+   [x] Surat Balasan Tempat Penelitian
    [] Biodata
    [] Akte Kelahiran
    [] Kartu Keluarga
@@ -17,36 +17,44 @@
    [] File Skripsi
 
 # Print
+   [] Kartu Bimbingan Skripsi
+   [] Biodata
+   [] Akte Kelahiran
+   [] Kartu Keluarga
    [] File Skripsi
+
+# Fotocopy
+   [] Kuitansi DPP
+   [] Kuitansi Biaya Bimbingan Skripsi
+   [] Kuitansi Biaya Sidang Skripsi
+
+
+
+
+
+
+
+
+
+
+
+
+# Submit Form
+   [] Sertifikat PROPANKA
+   [] Sertifikat TOEFL
+   [] Kuitansi DPP
+   [] Kuitansi Biaya Bimbingan Skripsi
+   [] Kuitansi Biaya Sidang Skripsi
+   [] Sertifikat Seminar/Workshop
+   [] Sertifikat Sertifikasi Kompetensi Internasional
+   [] Transkrip Nilai
+   [] Kartu Bimbingan Skripsi
+   [] Surat Keterangan Cek Plagiarisme
    [] Surat Balasan Tempat Penelitian
    [] Biodata
    [] Akte Kelahiran
    [] Kartu Keluarga
-
-# Fotocopy
-   [] Surat Keterangan Cek Plagiarisme
-   [] Kuitansi Biaya Bimbingan Skripsi
-   [] Kuitansi DPP
-   [] Kuitansi Biaya Bimbingan Skripsi
-   [] Kuitansi Biaya Sidang Skripsi
-   [] Kartu Bimbingan Skripsi
-
-# Submit Form
-   [x] Sertifikat PROPANKA
-   [x] Sertifikat TOEFL
-   [x] Kuitansi DPP
-   [] Kuitansi Biaya Bimbingan Skripsi
-   [x] Kuitansi Biaya Sidang Skripsi
-   [x] Sertifikat Seminar/Workshop
-   [x] Sertifikat Sertifikasi Kompetensi Internasional
-   [x] Transkrip Nilai
-   [x] Kartu Bimbingan Skripsi
-   [x] Surat Keterangan Cek Plagiarisme
-   [] Surat Balasan Tempat Penelitian
-   [x] Biodata
-   [x] Akte Kelahiran
-   [x] Kartu Keluarga
-   [x] Kartu Tanda Penduduk
+   [] Kartu Tanda Penduduk
    [] File Skripsi
 
 # Revisian
